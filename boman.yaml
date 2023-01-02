@@ -4,7 +4,7 @@ Auth:
 
    
 SCA:
-  language: "js" 
+  language: ["js",'CoffeeScript'] 
 
 SAST:
   language: "ruby" 
